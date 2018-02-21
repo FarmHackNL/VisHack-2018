@@ -1,10 +1,10 @@
 # FarmHack 
 
-*[FarmHack](farmhack.nl) mobiliseert coders, creatieven en domeinexperts op vraagstukken van de boer.*
+*[FarmHack](farmhack.nl) mobiliseert coders, creatieven en domeinexperts op vraagstukken van de boer. (en hier: de visser.) *
 
 ## VisHack 2018
 
-Een belangrijke stap voor een duurzame visserij is het terugdringen van de hoeveelheid ongewenste bijvangst. Om dit in de Nederlandse bodemvisserij terug te dringen is een radicaal andere manier van denken en doen nodig. Stichting De Noordzee wil daarom met deze VisHack disruptive innovation in de visserij aanjagen, op een grensverleggende en uitdagende manier.
+Een belangrijke stap voor een nog duurzamer visserij is het terugdringen van de hoeveelheid ongewenste bijvangst. Stichting De Noordzee wil samen met de visserijsector innovatie in de bodemvisserij aanjagen. Deze 'VisHack' biedt ruimte aan ideeen en talent om samen mooie dingen te maken.  
 
 Meer informatie: https://www.farmhack.nl/activiteiten/vishack/
 
