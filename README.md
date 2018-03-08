@@ -1,6 +1,6 @@
 # FarmHack 
 
-*[FarmHack](farmhack.nl) mobiliseert coders, creatieven en domeinexperts op vraagstukken van de boer. (en hier: de visser.) *
+[FarmHack](farmhack.nl) mobiliseert coders, creatieven en domeinexperts op vraagstukken van de boer. (en hier: de visser.)
 
 ## VisHack 2018
 
@@ -10,8 +10,12 @@ Meer informatie: https://www.farmhack.nl/activiteiten/vishack/
 
 ## Data
 
+- [Stichting De Noordzee - Beschermde Gebieden op Zee](https://stichtingdenoordzee.sharepoint.com/Beschermde%20Natuurgebieden/Gedeelde%20%20documenten/Forms/AllItems.aspx?slrid=f677519e%2De0c9%2D5000%2D79c4%2D79731fcf8a06&RootFolder=%2FBeschermde%20Natuurgebieden%2FGedeelde%20%20documenten%2FNAT%5FBeleidstrajecten%20en%20gebieden%2FKaartjes%2FBescherming%20Noordzee%2FShapefiles%20Bescherming%20Noordzee%20Vishack&FolderCTID=0x012000F097317C015FB64D8F0C14D52E00C9CE) \[1]
 - [Informatiehuis Marien](https://www.informatiehuismarien.nl/open-data/)
 - [The International Council for the Exploration of the Sea ](http://www.ices.dk/marine-data/data-portals/Pages/DATRAS.aspx)
+
+
+\[1] Disclaimer: this dataset was used for [North Sea Foundation's publication (Feb 2018) on Marine Protected Areas](https://www.noordzee.nl/marine-protected-areas-in-the-dutch-north-sea/). The data contains proposals for Marine Protected Areas that are not yet implemented (Klaverbank, Friese Front, Centrale Oestergronden, Borkumse Stenen). The Dutch government is not responsible for errors or information that is not up to date.
 
 ## Challenges
 
