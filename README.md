@@ -14,7 +14,7 @@ Meer informatie: https://www.farmhack.nl/activiteiten/vishack/
 
 ![](images/SdN.png)
 
-Download: [Beschermde Gebieden op Zee](https://stichtingdenoordzee.sharepoint.com/Beschermde%20Natuurgebieden/Gedeelde%20%20documenten/Forms/AllItems.aspx?slrid=f677519e%2De0c9%2D5000%2D79c4%2D79731fcf8a06&RootFolder=%2FBeschermde%20Natuurgebieden%2FGedeelde%20%20documenten%2FNAT%5FBeleidstrajecten%20en%20gebieden%2FKaartjes%2FBescherming%20Noordzee%2FShapefiles%20Bescherming%20Noordzee%20Vishack&FolderCTID=0x012000F097317C015FB64D8F0C14D52E00C9CE)
+Download: [Beschermde Gebieden op Zee](https://stichtingdenoordzee.sharepoint.com/Beschermde%20Natuurgebieden/Gedeelde%20%20documenten/Forms/AllItems.aspx?slrid=fe94519e%2D60d2%2D5000%2D79c4%2D757073c6859b&RootFolder=%2FBeschermde%20Natuurgebieden%2FGedeelde%20%20documenten%2FNAT%5FBeleidstrajecten%20en%20gebieden%2FKaartjes%2FBescherming%20Noordzee%2FShapefiles%20Bescherming%20Noordzee%20Vishack&FolderCTID=0x012000F097317C015FB64D8F0C14D52E00C9CE)
 
 Gebruik: Download de `layers` map, en de `.qgs` bestand en open deze in [QGIS](http://qgis.com/). QGIS kan de lagen als GeoJSON of CSV exporteren: selecteer een laag -> rechtermuisknop -> `Save As...` -> `Format`: (GeoJSON/CSV) -> `Ok`. Selecteer `CRS`: `EPSG:4326` als de data op een Leaflet/Google Maps kaart gevisualiseerd gaat worden.
 
