@@ -14,7 +14,7 @@ Meer informatie: https://www.farmhack.nl/activiteiten/vishack/
 
 ![](images/SdN.png)
 
-Download: [Beschermde Gebieden op Zee](data/SDN.zip)
+Download: [Beschermde Gebieden op Zee](https://github.com/FarmHackNL/VisHack-2018/blob/master/data/SDN.zip?raw=true)
 
 Gebruik: Download/unzip `data/SDN.zip` en open `Kaarten_MPA's_JV_Vishack.qgs` in [QGIS](http://qgis.com/).
 
