@@ -43,6 +43,10 @@ Die twee sets lijken op elkaar maar de BTS set is net iets uitegbreider. Voor de
 - [Discard self-sampling of Dutch bottom-trawl and seine fisheries in 2011](http://edepot.wur.nl/239432) \[PDF]
 - [Discard self-sampling of Dutch bottom-trawl and seine fisheries in 2013](http://edepot.wur.nl/324110) \[PDF]
 
+## Analyses
+
+- [Long term mixed fisheries yields](https://github.com/JanJaapPoos/ShinySel) \[R] - Door: Jan Jaap Poos
+
 ## Challenges
 
 ### ONTWIJKEN - realtime visualisatie en communicatie
